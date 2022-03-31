@@ -1,0 +1,20 @@
+ul {
+    list-style-image: url('../../../assets/images/Ellipse 8.png');
+    line-height:2.2
+  }
+
+
+
+  
+@media screen and (max-width: 771px) {
+  .img-fluid {
+    margin-top: 15px;
+  }
+  
+  .row >div {
+    text-align: center
+  }
+  .row ul {
+    list-style: none;
+  }
+}

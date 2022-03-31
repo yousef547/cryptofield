@@ -1,0 +1,10 @@
+.images > div {
+    margin: 10px 0;
+}
+@media screen and (max-width: 970px) {
+    .un-none {
+        display: none;
+    }
+
+}
+

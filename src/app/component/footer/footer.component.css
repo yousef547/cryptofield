@@ -1,0 +1,9 @@
+.footer {
+    background-image: url("../../../assets/images/BG.png");
+    background-repeat: no-repeat;
+}   
+
+
+a > img {
+    margin: 0 5px
+}

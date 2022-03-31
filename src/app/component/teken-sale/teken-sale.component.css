@@ -1,0 +1,23 @@
+.bg-img {
+    background-image: url('../../../assets/images/01.png');
+}
+#teken {
+  min-height: 500px;
+
+}
+.bg-progress {
+    background-color: #EC5B59;
+}
+h5 {
+    line-height:2
+}
+.ico {
+    padding-bottom:10px !important
+}
+
+
+@media screen and (max-width: 771px) {
+    #teken {
+        min-height: 600px;
+    }
+  }

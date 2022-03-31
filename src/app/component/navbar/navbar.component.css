@@ -1,0 +1,41 @@
+#b_ground {
+  width: 100%;
+  background-color: #171b55;
+  min-height: 90vh;
+}
+.bg-nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background: transparent;
+}
+ul li {
+  padding-right: 20px;
+}
+ul li > a {
+  color: #fff !important;
+}
+
+.form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+@media screen and (max-width: 800px) {
+  nav {
+      background: #000 !important;
+      z-index: 99999;
+
+  }
+  .navbar-toggler {
+    background: #fff !important;
+  }
+  #b_ground  {
+    min-height: 110vh;
+
+  }
+}

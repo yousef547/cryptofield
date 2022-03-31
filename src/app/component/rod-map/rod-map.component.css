@@ -1,0 +1,32 @@
+.bg-map{
+    background-image: url("../../../assets/images/groubsspng.png");
+    background-repeat: no-repeat;
+    background-position: center top; }
+.w-40 {
+    width: 50%;
+    height: 150vh;
+}
+
+.mt-50 {
+    margin-top:105px
+}
+
+
+
+@media screen and (max-width: 995px) {
+    .bg-map  {
+       width:100%
+    }
+  }
+
+  @media screen and (max-width: 555px) {
+    .mt-50 {
+        margin-top:90px
+    }
+  }
+
+  @media (min-width: 995px) and (max-width: 1400px) {
+   .mt-50 {
+       margin-top:90px
+   }
+  }

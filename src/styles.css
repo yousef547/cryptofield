@@ -1,0 +1,43 @@
+.liner_bg {
+    background-image: linear-gradient(to left, #EB535A, #EC844D);
+  }
+  .bg_1 {
+      background-color: #080C49;
+  }
+  .bg-2{
+      background-color: #171b55
+  }
+  body {
+      overflow-x: hidden;
+  }
+  .ico {
+    padding:70px 0
+}
+
+.bg-icon{
+    background-color: #10205C;
+    border-radius: 50%;
+    width:75px;
+    height: 75px;
+
+}
+.banner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+  }
+  
+
+.box {
+    width: 80px;
+    height: 90px;
+    border-radius: 10%;
+    overflow: hidden;
+    margin-right: 25px ;
+  }
+  
+  /* * {
+      border: 1px solid #555
+  } */

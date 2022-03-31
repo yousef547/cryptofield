@@ -1,0 +1,12 @@
+
+
+.sing_up {
+    background-color:#4153E3
+}
+
+
+@media screen and (max-width: 770px) {
+    .banner {
+        top: 60%;
+    }
+  }
